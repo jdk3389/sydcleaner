@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sydcleaner/static/css/main.f5ade3ea.css",
+    "main.js": "/sydcleaner/static/js/main.539e6472.js",
+    "static/js/787.18adf598.chunk.js": "/sydcleaner/static/js/787.18adf598.chunk.js",
+    "index.html": "/sydcleaner/index.html",
+    "main.f5ade3ea.css.map": "/sydcleaner/static/css/main.f5ade3ea.css.map",
+    "main.539e6472.js.map": "/sydcleaner/static/js/main.539e6472.js.map",
+    "787.18adf598.chunk.js.map": "/sydcleaner/static/js/787.18adf598.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5ade3ea.css",
+    "static/js/main.539e6472.js"
+  ]
+}
